@@ -1,2 +1,2 @@
 # Python Projects
-A collection of all of the Python programs I have created.
+A collection of extremely basic Python programs I have created.
